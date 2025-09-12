@@ -1,0 +1,1 @@
+This is my first SQL with python. Its was fun
