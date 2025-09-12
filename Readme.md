@@ -1,1 +1,2 @@
 This is my first SQL with python. Its was fun
+So i built a CLI with python which uses SQLite3 Library to handle/ manipulate database, with this project i learned how to handle slightly bigger project, how to start a project and where to find help if you need, and in future i will make it better with more refined structure and better knowledge.
