@@ -20,6 +20,8 @@ Here the creating.py, is to create the database and the table, run it before try
 ## TECH Stack
 Python • SQL • SQLite3
 
+---
+
 ## Before you go
 I have made this thing as a project to get good at backend, and how Python can be used to interact with database, instead of running commands everytime. This is one of most clean and simple uses of python as a Scripting language.<br>
 You can use this project, suggest me any updates, and also if you have any idea I am open to collaborate.
